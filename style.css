@@ -142,7 +142,7 @@ user-select: none;
 
     /* margin-top: 100%; */
     position: absolute;
-    /* top: 270px; */
+    left: 10px;
 
     -moz-transition: all 600ms;
     -webkit-transition: all 600ms;
@@ -171,6 +171,7 @@ user-select: none;
     margin: 30px;
     position: absolute;
     top: 270px;
+    left: 10px;
     z-index: 2;
     background: #fff;
     /* opacity: 0.3; */
